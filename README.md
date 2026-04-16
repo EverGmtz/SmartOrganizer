@@ -57,3 +57,32 @@ Open the folder named dist.
 Open the folder named SmartOrganizer.
 
 You can now right-click that file and select "Create shortcut" to drag onto The desktop.
+
+# How to Use
+Select Your Folders:
+
+Source Folder: Where the messy files currently are. (You can click the button to browse, or simply click and drag a folder from your computer directly onto the button).
+
+Target Folder: Where you want the organized folders to be created.
+
+Choose Your Settings:
+
+Sort By: Choose how you want files grouped (e.g., by File Type like "Images" and "Videos", or by Creation Year).
+
+Skip Exts: Type in any file types you want the app to ignore (like .tmp or .ini).
+
+Deduplicate: Check this box to have the app automatically find duplicate files.
+
+Generate Quick Look: Click the big purple button. The app will scan your files and create a list.
+
+Review the List:
+
+Look through the "Quick Look" table.
+
+If the app found duplicates, they will automatically be checked (☑) and highlighted in Red so you know they are marked for deletion.
+
+You can manually check or uncheck files by selecting them and pressing the Spacebar.
+
+Execute:
+
+Click Delete Checked to permanently remove any files highlighted in red.
