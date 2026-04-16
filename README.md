@@ -39,18 +39,17 @@ Now, we just copy and paste two commands into that black screen.
 Step 1: Install the building blocks
 Copy the text below, paste it into the black screen (you might have to right-click to paste), and hit Enter:
 
-Plaintext
 pip install customtkinter tkinterdnd2 pyinstaller
 Wait a minute for it to download a bunch of stuff. When it stops moving, move to Step 2.
 
 Step 2: Create the .exe file
 Copy this long line of text, paste it into the black screen, and hit Enter:
 
-Plaintext
 py -m PyInstaller --noconfirm --windowed --icon=SmartOrganizer.ico --add-data "SmartOrganizer.ico;." --collect-all customtkinter --collect-all tkinterdnd2 SmartOrganizer.py
+
 The computer will now compress everything into a single app. This takes about 1 or 2 minutes. When it says "Completed successfully," you can close the black screen!
 
-Phase 5: Find The New App!
+Phase 5: Find SmartOrganizer
 Look back inside The App Builder folder. You will see some new folders.
 
 Open the folder named dist.
