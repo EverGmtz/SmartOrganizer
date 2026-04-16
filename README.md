@@ -2,8 +2,8 @@
 Smart Organizer is a Windows desktop application created to instantly clean up misplaced folders (like The Downloads or Desktop). It scans a folder of The choice, categorizes the files (into Images, Documents, Videos, others), and moves them into neatly organized subfolders
 This guide will show you exactly how to take the raw code files and turn them into a real, clickable .exe app that you can use forever (or share with friends).
 
-Step 1: The One-Time Setup
-The computer needs to learn how to read Python code before it can build the app.
+Step 1: The Setup
+Make sure Python is Installed
 
 Go to Python.org and click the big yellow "Download Python" button.
 
